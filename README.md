@@ -1,1 +1,3 @@
 # TASK_01
+
+This calculator suite is backed by a comprehensive testing framework designed to ensure mathematical precision and UI stability. The test coverage spans fundamental arithmetic—validating addition, subtraction, multiplication, and division across various data types—and extends to complex edge cases such as division by zero, floating-point precision, and the correct application of the order of operations. Beyond the math, the suite enforces strict input validation to prevent logic errors like multiple decimal points or invalid character entries, while also verifying that state-clearing functions perform reliably. This ensures a robust, crash-resistant experience from simple sums to chained calculations.
